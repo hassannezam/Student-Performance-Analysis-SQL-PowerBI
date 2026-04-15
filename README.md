@@ -13,7 +13,7 @@ A simulated dataset of student performance was designed, processed, and analysed
 ---
 
 ## 🔍 Data Processing (SQL)
-- Developed SQL queries using JOINs, subqueries, CTEs, and aggregations  
+- Developed SQL queries using JOINs, subqueries, View, CTEs, and aggregations  
 - Transformed raw data into analysis-ready datasets  
 - Built structured outputs suitable for BI tools  
 
@@ -53,9 +53,7 @@ SQL scripts (schema and queries) are being finalised and will be uploaded shortl
 ---
 
 ## 📊 Dashboard Presentation
-A summary of the dashboard and insights is available in the presentation:
-
-👉 See: `presentation/Student_Performance_Dashboard_Presentation.pdf`
+A summary of the dashboard and insights is mentioned above.
 
 ---
 
