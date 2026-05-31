@@ -33,14 +33,8 @@ A simulated dataset of student performance was designed, processed, and analysed
 - Compared individual student performance against class averages  
 - Detected high- and low-performing students for targeted support  
 - Analysed subject-level performance patterns  
-
 ---
 
-#  Work in Progress
-SQL scripts (schema and queries) are being finalised and will be uploaded shortly.
-  
-
----
 
 # Dashboard Presentation #
 A summary of the dashboard and insights is mentioned above.
