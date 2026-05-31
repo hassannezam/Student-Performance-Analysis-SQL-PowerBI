@@ -1,4 +1,4 @@
-﻿/*Provide Created View Table that joins Grades, Students, and Subjects.
+﻿/*View Table that joins Grades, Students, and Subjects.
 Converts raw scores to 20-point scale, assigns mock/final exam dates,
 and handles NULL student names. */
 ----------------------------------
