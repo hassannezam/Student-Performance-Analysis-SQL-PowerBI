@@ -55,6 +55,4 @@ Passionate about transforming school data into actionable insights for better ed
 🌐 www.SchoolDataPulse.co.uk
 🔗 www.linkedin.com/in/hassan-nezamoleslami
 
----
-
-این ریدمی بر اساس گزارش جدیدت (با ۷ شکل) تهیه شده. اگه خواستی چیزی رو کم یا زیاد کنم، بگو.
+    14 May 2026
