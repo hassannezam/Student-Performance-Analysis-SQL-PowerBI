@@ -51,6 +51,9 @@ Hassan Nezamoleslami
 Founder of School Data Pulse
 Passionate about transforming school data into actionable insights for better educational outcomes.
 
+📧 info@SchoolDataPulse.co.uk
+🌐 www.SchoolDataPulse.co.uk
+🔗 www.linkedin.com/in/hassan-nezamoleslami
 
 ---
 
